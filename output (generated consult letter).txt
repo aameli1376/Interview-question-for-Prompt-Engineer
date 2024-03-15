@@ -1,0 +1,61 @@
+OpenAI API key loaded successfully.
+Generated Consult Letter:
+[Your Clinic Letterhead]
+
+[Your Address]
+[City, State, Zip Code]
+[Your Contact Number]
+[Your Email Address]
+[Date]
+
+[Recipient's Name]
+[Recipient's Title]
+[Recipient's Address]
+[City, State, Zip Code]
+
+Re: Betty
+
+Date of Consult: January 1, 2022
+
+Dear [Recipient's Name],
+
+I am writing to update you on the evaluation and management plan for our mutual patient, Betty, who presented to the clinic on January 1, 2022, with the chief complaint of left-sided ear pain.
+
+History of Present Illness:
+Betty has been experiencing intermittent hearing loss associated with left-sided ear pain, which worsens when chewing. There has been no drainage noted. The pain seems to mitigate when she lies on the contralateral side. She reported inconsistent use of a mouthpiece that was previously prescribed for teeth clenching.
+
+Social History:
+Betty maintains occasional use of Reactive for allergies and has reported an allergy to salt.
+
+Review of Systems:
+She is experiencing intermittent hearing loss. There are no issues with swallowing, nasal congestion, or additional allergy symptoms beyond what is controlled by Reactive.
+
+Current Medications:
+Betty takes Reactive intermittently for her allergies.
+
+Allergies:
+She has an allergy to salt.
+
+Physical Examination:
+Upon examination, the right ear canal was clear, and the tympanic membrane was intact and appropriately aerated. The left ear canal was normal, and the eardrum was unremarkable with no signs of fluid or infection. Nasal passages were patent, paranasal sinuses were normal in appearance, and the oral cavity was clear. Tonsils were absent, dentition was in good condition, and pain was elicited upon palpation of the pterygoid muscles. Cardiovascular and respiratory exams revealed clear heart and lung sounds, and no cervical tenderness or lymphadenopathy was detected.
+
+Assessment:
+The differential diagnosis considered includes temporomandibular joint (TMJ) disorder, which is supported by the presence of jaw pain, a history of teeth clenching, and a normal ear examination.
+
+Plan:
+An audiogram has been ordered to evaluate her reported intermittent hearing loss. I have advised Betty to see her dentist for an evaluation of the temporomandibular joint. In the interim, ibuprofen has been recommended for the pain. Dietary modifications to include soft foods and to avoid chewing gum, hard candies, hard fruits, ice, and nuts, have been suggested. Further follow-up has been advised should her symptoms persist.
+
+If you require additional information or wish to discuss Betty's care further, please do not hesitate to contact me. Your partnership in the care of our patient is greatly appreciated.
+
+Warm regards,
+
+Dr. John Doe
+Obstetrics & Gynecology
+
+[Your Clinic Name]
+[Your Clinic Address]
+[City, State, Zip Code]
+
+[Optional: Copy to patient file]
+
+Please note that the above consult letter has been addressed to a recipient without specific identification. Replace "[Recipient's Name]" and "[Recipient's Title]" with the appropriate details of the healthcare provider you are addressing this letter to. Additionally, ensure that this letter includes any enclosures or specific next steps if applicable.
