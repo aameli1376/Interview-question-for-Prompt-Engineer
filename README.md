@@ -21,7 +21,7 @@ Make sure you have an OpenAI API key stored in a `.env` file and loaded into the
 ### Running Tests
 
 To run unit tests, use the following command. It passed most of the tests:
-`python -m pytest .`
+`python3 -m pytest .`
 
 ## Files
 
